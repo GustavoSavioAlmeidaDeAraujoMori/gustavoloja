@@ -1,0 +1,50 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+#logo-container img {
+  width: 150px;
+  position:relative;
+}
+
+#logopgninicial img {
+  width: 450%;
+}
+
+
+#logfooter {
+  width: 15%;
+}
+
+nav ul a {
+  color: #36052e;
+}
+
+h1 {
+  font-family: 'Ultra', serif;
+  color: #36052e;
+}
+h3{
+  font-family: 'Times New Roman', Times, serif;
+  color: #36052e;
+}
+
+.col img {
+  width: 80%;
+}
+
+.vine {
+  background-color:#33001e;
+}
+
